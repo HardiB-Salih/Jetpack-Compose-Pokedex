@@ -1,4 +1,4 @@
-package com.plcoding.jetpackcomposepokedex.remote
+package com.plcoding.jetpackcomposepokedex.data.remote
 
 import com.hardib.salih.daggerhilt.pokedex_application.data.responses.Pokemon
 import com.hardib.salih.daggerhilt.pokedex_application.data.responses.PokemonList

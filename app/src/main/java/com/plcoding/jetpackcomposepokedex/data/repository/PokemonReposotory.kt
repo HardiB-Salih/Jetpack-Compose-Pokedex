@@ -1,8 +1,8 @@
-package com.plcoding.jetpackcomposepokedex.repository
+package com.plcoding.jetpackcomposepokedex.data.repository
 
 import com.hardib.salih.daggerhilt.pokedex_application.data.responses.Pokemon
 import com.hardib.salih.daggerhilt.pokedex_application.data.responses.PokemonList
-import com.plcoding.jetpackcomposepokedex.remote.PokeApi
+import com.plcoding.jetpackcomposepokedex.data.remote.PokeApi
 import com.plcoding.jetpackcomposepokedex.util.Resource
 import dagger.hilt.android.scopes.ActivityScoped
 import javax.inject.Inject
