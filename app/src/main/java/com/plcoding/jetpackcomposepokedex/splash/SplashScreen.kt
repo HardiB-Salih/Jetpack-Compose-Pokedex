@@ -35,6 +35,7 @@ fun SplashScreen(navController: NavController) {
                 })
         )
         delay(3000L)
+        navController.popBackStack()
         navController.navigate("pokemon_list_screen")
     }
 
